@@ -10,7 +10,9 @@ Board used: Arduino Uno Rev 2
 Parts used: LCD1602, Potentiometer 10K, 9V Battery, Fan
 
 Setup
-- Will fill out later
+- Wire up the board correctly (See below)
+- Configure your ideal temperature
+- Power up Arduino and upload code
 
 General Concept:
  ![alt text](https://github.com/J0K3Rn/Arduino-Smart-Fan/blob/main/general_concept.png?raw=true)
@@ -19,4 +21,4 @@ Smart Fan Circuit Diagram:
  ![alt text](https://github.com/J0K3Rn/Arduino-Smart-Fan/blob/main/diagram.png?raw=true)
 
 Smart Fan in use:
- ![alt text](https://github.com/J0K3Rn/Arduino-Smart-Fan/blob/main/example.jpg?raw=true)
+ ![alt text](https://github.com/J0K3Rn/Arduino-Smart-Fan/blob/main/example.png?raw=true)
